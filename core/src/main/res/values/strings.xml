@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generat_title">generat title</string>
+    <string name="home">Home</string>
+    <string name="popular">Popular</string>
+    <string name="toprated">TopRated</string>
+    <string name="upcoming">UpComing</string>
+</resources>
